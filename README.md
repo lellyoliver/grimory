@@ -1,2 +1,7 @@
-# grimory
-Um jogo de Farm /cozy online em homenagem a minha esposa.
+### Javascript 
+
+
+##### No terminal, na pasta do projeto:
+````npx --yes serve .````
+
+Abra o link que aparecer (ex.: http://localhost:3000)
